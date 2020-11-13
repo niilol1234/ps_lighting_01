@@ -7,7 +7,7 @@ ScriptsOnlyBuild:
     - UnityEditor.TestTools.TestRunner.TestListCacheData
     - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
   sceneClasses:
-    Assets/lighting01113.unity:
+    Assets/1114.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -465,5 +465,5 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   platform: 20
   scenePathNames:
-  - Assets/lighting01113.unity
-  playerPath: C:/Users/User/Desktop/ps_lighting_01/light1113/web
+  - Assets/1114.unity
+  playerPath: "C:/Users/user/Desktop/\u4EE3\u4EE3/ps_lighting_01/light1113/wab"
